@@ -1,0 +1,12 @@
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\bin\Debug\NMEA_Images\HDG.PNG
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\bin\Debug\NMEA_Images\HDT.PNG
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\bin\Debug\NMEA Signal Generator.exe.config
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\bin\Debug\NMEA Signal Generator.exe
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\bin\Debug\NMEA Signal Generator.pdb
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\obj\Debug\NMEA_Signal_Generator.Form1.resources
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\obj\Debug\NMEA_Signal_Generator.Properties.Resources.resources
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\obj\Debug\NMEA Signal Generator.csproj.GenerateResource.Cache
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\obj\Debug\NMEA Signal Generator.csproj.CoreCompileInputs.cache
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\obj\Debug\NMEA Signal Generator.exe
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\obj\Debug\NMEA Signal Generator.pdb
+C:\Users\bgibson\source\repos\NMEA Signal Generator\NMEA Signal Generator\obj\Debug\NMEA Signal Generator.csprojResolveAssemblyReference.cache
